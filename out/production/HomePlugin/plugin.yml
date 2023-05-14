@@ -1,0 +1,13 @@
+name: HomePlugin
+version: 1.0
+author: Clem28L
+main: fr.clem28l.HomePlugin.Main
+commands :
+  sethome:
+    description: permet de crée un home a la position actuelle
+  home:
+    description: permet de se teleporter au home souhaité
+  delhome:
+    description: permet de supprimer le home souhaité
+  back:
+    description: permet de revenir a l'ancienne postion
